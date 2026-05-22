@@ -12,6 +12,11 @@
 
 Follow a live journey from rapid experimentation in the Foundry portal's playground to production-ready agent deployment. Discover how the portal's user interface streamlines workflow design, model management, and monitoring, making it easy for developers to discover, build, iterate, and manage their artificial intelligence solutions in a manner that complements their code-first mindset. By mapping each portal capability to familiar developer tasks, we will also reinforce how the portal enhances the code-first experience with richer observability features to give a more comprehensive understanding of system behaviors that may not be visible through code alone.
 
+---
+
+<br/>
+
+
 ### 🚀 Getting started
 
 If you're following these steps at your own pace:
@@ -72,7 +77,7 @@ The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's 
 
 **Visual Studio Code** — One click installation: 
 
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
+[![Install in Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
 
 
 **GitHub Copilot CLI** — Run this to install the Learn MCP Server as a plugin:
