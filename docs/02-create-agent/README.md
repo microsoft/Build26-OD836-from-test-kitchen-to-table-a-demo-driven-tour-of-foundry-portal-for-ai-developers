@@ -16,7 +16,7 @@ With your Foundry project ready, this part walks through creating the agent prot
 Under the hood, Foundry automatically deploys:
 - **GPT-4.1** as the default chat model
 - **text-embedding-3-large** for RAG / embedding scenarios
-which is all you need to get started with building your agent ang grounding it on your data. 
+which is all you need to get started with building your agent and grounding it in your data.
 
 > [!TIP]
 > You can always check your model deployments in the **Deployments** tab in the left nav bar of your project.
