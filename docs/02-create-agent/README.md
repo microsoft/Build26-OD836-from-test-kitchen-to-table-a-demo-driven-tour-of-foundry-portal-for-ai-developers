@@ -8,8 +8,8 @@ With your Foundry project ready, this part walks through creating the agent prot
 
 1. Once the project is ready, click **Next** to proceed.
 2. Then click **Create agent** when prompted to set up your first agent.
-2. Enter an agent name — for this demo: `retail-base-agent`.
-3. Click **Create**.
+3. Enter an agent name — for this demo: `retail-base-agent`.
+4. Click **Create**.
 
 ![Create your first agent](./assets/create_first_agent.png)
 
