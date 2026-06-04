@@ -9,9 +9,9 @@ Before further customizing the agent, it's crucial to understand how to observe 
 To debug agent behavior, you need an Application Insights resource connected to the project.
 
 1. In the playground, open the **Traces** panel. Click **Connect**.
-![Enable traces](./assets/enable_traces.png)
+   ![Enable traces](./assets/enable_traces.png)
 2. In the new window, expand the dropdown and select **Create a new resource**.
-![Create a new resource](./assets/create_new_resource.png)
+   ![Create a new resource](./assets/create_new_resource.png)
 3. Select a name for your **Application Insights** and **Log Analytics workspace** resources in your resource group. Confirm with the **Create** button.
 4. Double check in the Azure portal that both resources now exist.
 
