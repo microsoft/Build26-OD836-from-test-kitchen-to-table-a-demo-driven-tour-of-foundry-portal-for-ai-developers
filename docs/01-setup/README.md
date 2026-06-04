@@ -26,7 +26,8 @@ Throughout this tutorial, you'll be building for **Zava**, a fictitious enterpri
    - Resource group name
 3. Click **Create** and wait a couple of minutes for the project to be provisioned.
 
-> [!TIP] Open the Azure portal in another tab and refresh the resource groups list. You'll see the new resource group appear with the **Foundry resource** and **Foundry project** inside it. Under the resource you can find the API key and project endpoints needed for code-first access later.
+> [!TIP]
+> Open the Azure portal in another tab and refresh the resource groups list. You'll see the new resource group appear with the **Foundry resource** and **Foundry project** inside it. Under the resource you can find the API key and project endpoints needed for code-first access later.
 
 ---
 
