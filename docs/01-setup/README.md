@@ -1,5 +1,11 @@
 # 01 — Set Up Your Microsoft Foundry Project
 
+## Scenario — Meet Zava
+
+Throughout this tutorial, you'll be building for **Zava**, a fictitious enterprise retailer that sells home improvement goods to DIY project enthusiasts. As part of Zava's AI development team, your job is to build **Cora**, an AI shopping assistant that answers customer questions in store and online and provides customer service. Cora needs to be friendly, helpful, and cost effective to deploy — and because retail moves fast, it must be easy to adapt as systems, products, and customer needs evolve. Microsoft Foundry Portal is the "test kitchen" where you'll rapidly prototype Cora before taking the recipe to a code-first environment.
+
+---
+
 ## Step 1 — Open the Foundry Portal templates page
 
 1. In your browser, navigate to [ai.azure.com/templates](https://ai.azure.com/templates).

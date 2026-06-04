@@ -50,7 +50,9 @@ Each score includes a verbatim reasoning explanation. Some metrics are numeric (
    `What's the weather in Lecce today?`
    (rationale: a Zava customer might check weather before planning an outdoor DIY project)
 2. The agent retrieves info via the web search tool.
-3. Go to **Logs** for that response — you can see the **web_search** tool was invoked, along with the call metadata.
+3. Go to logs for that response — you can see the **web_search** tool was invoked, along with the call metadata.
+
+![Web search logs](./assets/web_search_logs.png)
 
 This is the evaluation-driven development loop: spot a gap in traces or evaluation scores → diagnose → adjust the agent.
 
@@ -64,24 +66,36 @@ This is the evaluation-driven development loop: spot a gap in traces or evaluati
 
 2. Click **Save**. A new version (**V2**) is created.
 
+![Save agent](./assets/save_agent.png)
+
 ---
 
 ## Step 5 — Compare versions side-by-side
 
-1. Click **Compare versions**.
+1. Expand the versions dropdown menu and click **Compare versions**.
+
+![Compare](./assets/compare.png)
+
 2. Select **V1** on one side and **V2** on the other.
 3. Send the same prompt to both, e.g., `What paint should I use for my outdoor deck?`.
 4. Observe the differences:
    - **V1** returns a generic answer.
    - **V2** asks the follow-up questions (when, which city) defined in the new instructions.
+   ![Comparing versions](./assets/comparing_versions.png)
+
 5. Inspect the logs and evaluation scores on both sides to confirm whether V2 improved or regressed vs. V1.
 
 ---
 
 ## Step 6 — Preview the agent as a web app
 
-1. Return to the standard playground.
-2. Click **Preview → Preview agent** to launch a web-app UI for sharing with testers.
+1. Return to the standard playground, by clicking the close button on the V1 panel.
+
+![Close V1 panel](./assets/close_v1_panel.png)
+
+2. Click **Publish → Preview webapp** to launch a web-app UI for sharing with testers.
+
+![Preview web app](./assets/preview_web_app.png)
 
 ### Customize the preview UI
 
@@ -91,7 +105,12 @@ This is the evaluation-driven development loop: spot a gap in traces or evaluati
    - **Starter prompts:**
      - `What's the weather like in Lecce today?`
      - `What paint should I use for my outdoor deck?`
-2. Click **Save**, then **Preview agent** again.
+2. Click **Save**, then preview agent again.
+
+![Configure preview](./assets/configure_preview.png)
+
 3. The web app now shows the custom name, description, and clickable starter prompts — and does **not** expose developer-only traces, logs, or evaluation scores (end-user view).
+
+![Preview](./assets/preview.png)
 
 

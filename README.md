@@ -12,6 +12,12 @@
 
 Follow a live journey from rapid experimentation in the Foundry portal's playground to production-ready agent deployment. Discover how the portal's user interface streamlines workflow design, model management, and monitoring, making it easy for developers to discover, build, iterate, and manage their artificial intelligence solutions in a manner that complements their code-first mindset. By mapping each portal capability to familiar developer tasks, we will also reinforce how the portal enhances the code-first experience with richer observability features to give a more comprehensive understanding of system behaviors that may not be visible through code alone.
 
+### 🎥 Watch the session
+
+[![From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI Developers](img/thumbnail.jpg)](https://build.microsoft.com/en-US/sessions/OD836)
+
+> Click the image above to watch the full session on the Microsoft Build site: [From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI Developers](https://build.microsoft.com/en-US/sessions/OD836?source=sessions).
+
 ---
 
 <br/>
