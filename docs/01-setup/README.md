@@ -10,7 +10,7 @@ Throughout this tutorial, you'll be building for **Zava**, a fictitious enterpri
 
 1. In your browser, navigate to [ai.azure.com/templates](https://ai.azure.com/templates).
 2. Browse the available solution templates (AI chat app, AI agent app, multi-agent workflow, etc.) to see if any match your scenario. Templates provide a quick way to get started with a pre-configured project.
-![Foundry Templates](./assets/foundry_templates.png)
+   ![Foundry Templates](./assets/foundry_templates.png)
 3. For the sake of this tutorial, click on **Start building** to create a new project from scratch. This will allow you to follow along with the step-by-step instructions and customize your project as you go.
 
 ---
